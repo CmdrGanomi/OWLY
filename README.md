@@ -1,7 +1,7 @@
 # OWLY-PROTOTYPE
 
-A new Flutter project.
+Thesis Project
 
 ## Getting Started
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+General Academic Mobile Application
